@@ -34,3 +34,9 @@ $RECYCLE.BIN/
 **/__pycache__/
 **/.venv/
 **/venv/
+
+# venom-bot config
+tokens/
+
+# private sample data
+sample_data/
