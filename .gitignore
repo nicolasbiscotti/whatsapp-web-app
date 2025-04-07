@@ -29,8 +29,18 @@ $RECYCLE.BIN/
 
 # Local environment variables
 .env
+**/env/
 
 # Python Salesforce Functions
 **/__pycache__/
 **/.venv/
 **/venv/
+
+# venom-bot config
+tokens/
+
+# private sample data
+sample_data/
+
+# private credentials
+credentials/
